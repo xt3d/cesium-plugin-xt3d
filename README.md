@@ -1,5 +1,5 @@
 # cesium-plugin-xt3d
-一款基于原生Cesium的开发插件，目前支持到Cesium1.118版本，持续更新和维护中。
+一款基于原生Cesium的开发插件，目前支持到Cesium1.130版本，持续更新和维护中。
 
 官网地址 http://www.xt3d.online
 
